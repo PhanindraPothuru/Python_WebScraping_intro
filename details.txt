@@ -1,0 +1,11 @@
+Website Details:
+URL:https://appbrewery.github.io/news.ycombinator.com/
+
+We will have the list of details of book and the votes of the corresponding book
+
+Download the main.py file and place it in pycharm or respective folder to execute so that we can get the result
+
+Packages to be installed:
+beautifulsoup4 (you can type bs4 as well)
+
+If any changes / modifications / easy ways you have sorted it please reachout to phanipothuru67@gmail.com , Happy to learn :)
